@@ -8,8 +8,9 @@ Buttons are just props.  All the LED controls are driven by code and timing with
 Positional servos needed to receive angle controls
  - Servo A   → D9   - presses the OFF button (right servo)
  - Servo B   → D10  - presses the ON  button (left servo)
- - LED       → D6   - **180 ohm resistor
-
+ - LED       → D6   - use resistor
+ - Resistor  → 180 ohm in LED circuit
+   
 ### Parts list with -- Amazon Affiliate links -- 
 Arduino Starter kit used for several components
 - ELEGOO Uno R3 Most Complete Starter kit: https://amzn.to/4rYCt2i
